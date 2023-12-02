@@ -30,7 +30,7 @@ To successfully complete this project, you will need the following technical kno
 
 2. Within your terminal, navigate to the project folder and execute `npm install`.
 
-3. After successful installation execute `npm run dev` and, in a different terminal, `npm test`.
+3. After successful installation execute `npm run dev` and, in a diff`.
 
 4. You will load the app in Chrome by navigating the browser to `http://localhost:3003`.
 
